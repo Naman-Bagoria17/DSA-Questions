@@ -1,0 +1,41 @@
+***486. Predict the Winner
+3469. Find Minimum Cost to Remove Array Elements
+2140. Solving Questions With Brainpower
+2218. Maximum Value of K Coins From Piles
+740. Delete and Earn
+639. Decode Ways II
+2585. Number of Ways to Earn Points
+2463. Minimum Total Distance Traveled
+1289. Minimum Falling Path Sum II
+1463. Cherry Pickup II
+368. Largest Divisible Subset
+2707. Extra Characters in a String
+*Minimum Sum Partition (positive elements on gfg)
+*Count Partitions with Given Difference-gfg
+983. Minimum Cost For Tickets
+2787. Ways to Express an Integer as Sum of Powers
+377. Combination Sum IV
+583. Delete Operation for Two Strings
+712.*Minimum ASCII Delete Sum for Two Strings
+472. Concatenated Words
+1473. Paint House III
+2400. Number of Ways to Reach a Position After Exactly k Steps
+746. Min Cost Climbing Stairs
+2304. Minimum Path Cost in a Grid
+*********174. Dungeon Game( new concept)
+**688. Knight Probability in Chessboard
+2370. Longest Ideal Subsequence
+279. Perfect Squares
+877. Stone Game
+1140. Stone Game II
+1406. Stone Game III
+1510. Stone Game IV
+1563. Stone Game V
+1690. Stone Game VII
+1872. Stone Game VIII
+*******1686. Stone Game IX
+2338. Count the Number of Ideal Arrays
+********2430. Maximum Deletions on a String(String matching)
+*******2484. Count Palindromic Subsequences
+2915. Length of the Longest Subsequence That Sums to Target
+**3599. Partition Array to Minimize XOR

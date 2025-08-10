@@ -1,0 +1,12 @@
+2579. Count Total Number of Colored Cells
+2965. Find Missing and Repeated Values 
+149. Max Points on a Line 
+*******1686. Stone Game IX
+423. Reconstruct Original Digits from English
+****974. Subarray Sums Divisible by K
+****3381. Maximum Subarray Sum With Length Divisible by K
+*****523. Continuous Subarray Sum
+******1590. Make Sum Divisible by P
+******2575. Find the Divisibility Array of a String
+2311. Longest Binary Subsequence Less Than or Equal to K
+789. Escape The Ghosts

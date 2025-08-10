@@ -1,0 +1,5 @@
+3108. Minimum Cost Walk in Weighted Graph
+2588. Count the Number of Beautiful Subarrays
+204. Count Primes   
+2311. Longest Binary Subsequence Less Than or Equal to K
+1829. Maximum XOR for Each Query

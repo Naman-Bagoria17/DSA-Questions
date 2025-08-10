@@ -1,0 +1,22 @@
+make a bool 2d vector for visited cells
+make a bool 2d vector isBorder to mark the border of component cells
+make a queue for bfs
+push given element in queue
+store original value of given cell in a variable say "og"
+now in bfs while loop
+pop out front element from queue and make a border variable false
+check its neighbour row and column
+if any neighbour row or column is out of bound means curr cell was at border of grid
+or if neighbour cell is not of same group as of og cell then also our cell is border of component
+so make border variable true
+else if cell is not visited
+push it in queue and mark it visited
+after all neighbours of current cell are processed 
+check if border is true
+then mark the curr cell true in isBorder vector
+
+
+we cant make the grid cell color here bcz it will make problem for its neighbouring cells
+then bcz for its neighbouring cells which will be of same component but not border cells, 
+they will be marked as border bcz they will be adjacent to a cell that is 
+now not in the component due to being updated

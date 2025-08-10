@@ -1,0 +1,53 @@
+111. Minimum Depth of Binary Tree
+3319. K-th Largest Perfect Subtree Size in Binary Tree
+2246. Longest Path With Different Adjacent Characters
+1376. Time Needed to Inform All Employees
+3417. Zigzag Grid Traversal With Skip
+116. Populating Next Right Pointers in Each Node
+257. Binary Tree Paths
+662. Maximum Width of Binary Tree
+*Check for Children Sum Property->code360 
+*2096. Step-By-Step Directions From a Binary Tree Node to Another
+513. Find Bottom Left Tree Value
+623. Add One Row to Tree
+958. Check Completeness of a Binary Tree
+*979. Distribute Coins in Binary Tree
+988. Smallest String Starting From Leaf
+1530. Number of Good Leaf Nodes Pairs
+1026. Maximum Difference Between Node and Ancestor
+1110. Delete Nodes And Return Forest
+1325. Delete Leaves With a Given Value
+*****894. All Possible Full Binary Trees
+572. Subtree of Another Tree
+******117. Populating Next Right Pointers in Each Node II
+***1372. Longest ZigZag Path in a Binary Tree
+1382. Balance a Binary Search Tree
+1609. Even Odd Tree
+2196. Create Binary Tree From Descriptions
+********VVVI**1569. Number of Ways to Reorder Array to Get Same BST
+********VVVI**3068. Find the Maximum Sum of Node Values
+**310. Minimum Height Trees
+**1245. TreeDiamter
+*******VVVI**3203. Find Minimum Diameter After Merging Two Trees
+*******VVVI*****3367. Maximize Sum of Weights after Edge Removals
+*******VVVI*****2872. Maximum Number of K-Divisible Components
+********VVVVIIISliding window on trees** 3425. Longest Special Path
+**1028. Recover a Tree From Preorder Traversal
+1261. Find Elements in a Contaminated Binary Tree
+3593. Minimum Increments to Equalize Leaf Paths
+814. Binary Tree Pruning
+*****652. Find Duplicate Subtrees
+1161. Maximum Level Sum of a Binary Tree
+**1361. Validate Binary Tree Nodes
+1457. Pseudo-Palindromic Paths in a Binary Tree
+129. Sum Root to Leaf Numbers
+**** Upside Down Binary Tree-code360
+**********331. Verify Preorder Serialization of a Binary Tree
+**Clone a Binary Tree
+************1483. Kth Ancestor of a Tree Node
+****Kth Ancestor in a Tree-gfg
+*****Binary Tree to DLL-gfg
+449. Serialize and Deserialize BST
+1448. Count Good Nodes in Binary Tree
+**2641. Cousins in Binary Tree II
+**501. Find Mode in Binary Search Tree

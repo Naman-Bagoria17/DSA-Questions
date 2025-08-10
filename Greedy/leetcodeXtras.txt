@@ -1,0 +1,34 @@
+3207. Maximum Points After Enemy Battles
+2551. Put Marbles in Bags
+2849. Determine if a Cell Is Reachable at a Given Time
+1717. Maximum Score From Removing Substrings
+2116. Check if a Parentheses String Can Be Valid
+3111. Minimum Rectangles to Cover Points
+1975. Maximum Matrix Sum
+1605. Find Valid Matrix Given Row and Column Sums
+3394. Check if Grid can be Cut into Sections
+2182. Construct String With Repeat Limit
+1921. Eliminate Maximum Number of Monsters
+1846. Maximum Element After Decreasing and Rearranging
+1792. Maximum Average Pass Ratio*****
+1402. Reducing Dishes
+1509. Minimum Difference Between Largest and Smallest Value in Three Moves
+2244. Minimum Rounds to Complete All Tasks
+1686. Stone Game VI
+*******1686. Stone Game IX
+2131. Longest Palindrome by Concatenating Two Letter Words
+
+//All lexicographical questions on leetcode (search in greedy).
+
+2170. Minimum Operations to Make the Array Alternating.
+3085. Minimum Deletions to Make String K-Special
+1647. Minimum Deletions to Make Character Frequencies Unique
+2375. Construct Smallest Number From DI String
+2311. Longest Binary Subsequence Less Than or Equal to K
+*****************715. Range Module
+986. Interval List Intersections
+2410. Maximum Matching of Players With Trainers
+2163. Minimum Difference in Sums After Removal of Elements
+****2611. Mice and Cheese
+***1727. Largest Submatrix With Rearrangements
+3628. Maximum Number of Subsequences After One Inserting

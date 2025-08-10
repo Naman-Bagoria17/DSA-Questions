@@ -1,0 +1,26 @@
+3108. Minimum Cost Walk in Weighted Graph
+2503. Maximum Number of Points From Grid Queries
+Alien Dictionary
+******787. Cheapest Flights Within K Stops
+2493. Divide Nodes Into the Maximum Number of Groups
+684. Redundant Connection
+***721. Accounts Merge
+**gfg-Minimum Multiplications to reach End
+778. Swim in Rising Water
+1319. Number of Operations to Make Network Connected
+************815. Bus Routes
+****floydd warshall question-> 2642. Design Graph With Shortest Path Calculator
+1311. Get Watched Videos by Your Friends
+934. Shortest Bridge
+******959. Regions Cut By Slashes
+****************685. Redundant Connection II
+**990. Satisfiability of Equality Equations
+1202. Smallest String With Swaps
+**1579. Remove Max Number of Edges to Keep Graph Fully Traversable
+1514. Path with Maximum Probability
+***3613. Minimize Maximum Component Cost
+***3608. Minimum Time for K Connected Components
+VVVI*********1203. Sort Items by Groups Respecting Dependencies
+*****2203. Minimum Weighted Subgraph With the Required Paths
+2290. Minimum Obstacle Removal to Reach Corner
+1293. Shortest Path in a Grid with Obstacles Elimination

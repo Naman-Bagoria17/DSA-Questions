@@ -1,0 +1,2 @@
+2401. Longest Nice Subarray
+1863. Sum of All Subset XOR Totals

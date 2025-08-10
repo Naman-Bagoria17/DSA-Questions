@@ -1,0 +1,21 @@
+2599,1422,2270,1930,2381
+1400 -> CONSTRUCT K PALINDROMIC STRINGS
+2116. Check if a Parentheses String Can Be Valid
+3223. Minimum Length of String After Operations
+3227. Vowels Game in a String
+3499. Maximize Active Section with Trade I
+43. Multiply Strings
+49. Group Anagrams
+1759. Count Number of Homogenous Substrings
+3085. Minimum Deletions to Make String K-Special
+1647. Minimum Deletions to Make Character Frequencies Unique
+848. Shifting Letters
+3361. Shift Distance Between Two Strings
+376. Wiggle Subsequence
+423. Reconstruct Original Digits from English
+2375. Construct Smallest Number From DI String
+2311. Longest Binary Subsequence Less Than or Equal to K
+2014. Longest Subsequence Repeated k Times
+1566. Detect Pattern of Length M Repeated K or More Times
+1461. Check If a String Contains All Binary Codes of Size K
+****3598. Longest Common Prefix Between Adjacent Strings After Removals

@@ -1,0 +1,7 @@
+3108. Minimum Cost Walk in Weighted Graph
+******787. Cheapest Flights Within K Stops
+****floydd warshall question -> 2642. Design Graph With Shortest Path Calculator
+1293. Shortest Path in a Grid with Obstacles Elimination
+2290. Minimum Obstacle Removal to Reach Corner
+*****2203. Minimum Weighted Subgraph With the Required Paths
+1514. Path with Maximum Probability
