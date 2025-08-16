@@ -81,8 +81,8 @@ class Deque{
         this->tail = this->tail->previous;
         del_node->next = nullptr;
         delete (del_node);
-        if(this->head==nullptr){
-            this->tail = nullptr;
+        if(this->tail==nullptr){
+            this->head = nullptr;
         }
         else{
             this->tail->next = nullptr;

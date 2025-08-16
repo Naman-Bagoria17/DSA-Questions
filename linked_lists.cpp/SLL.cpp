@@ -174,6 +174,8 @@ void deleting_HeadNode(Node* &head){
 }
 void deleting_TailNode(Node* &head){//2nd last node ko null pe point krwa do
     Node* temp=head;
+    if(!temp->next)
+        head = nullptr;
     while (temp->next->next!=nullptr)
     {
         temp=temp->next;
