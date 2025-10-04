@@ -10,3 +10,4 @@
 ******2575. Find the Divisibility Array of a String
 2311. Longest Binary Subsequence Less Than or Equal to K
 789. Escape The Ghosts
+3025. Find the Number of Ways to Place People I
