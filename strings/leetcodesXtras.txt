@@ -19,3 +19,4 @@
 1566. Detect Pattern of Length M Repeated K or More Times
 1461. Check If a String Contains All Binary Codes of Size K
 ****3598. Longest Common Prefix Between Adjacent Strings After Removals
+**966. Vowel Spellchecker

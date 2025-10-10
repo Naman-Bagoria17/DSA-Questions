@@ -39,3 +39,4 @@
 *******2484. Count Palindromic Subsequences
 2915. Length of the Longest Subsequence That Sums to Target
 **3599. Partition Array to Minimize XOR
+****3494. Find the Minimum Amount of Time to Brew Potions

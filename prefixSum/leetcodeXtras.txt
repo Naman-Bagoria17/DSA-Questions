@@ -12,3 +12,5 @@
 2588. Count the Number of Beautiful Subarrays
 1829. Maximum XOR for Each Query
 2009. Minimum Number of Operations to Make Array Continuous
+****3494. Find the Minimum Amount of Time to Brew Potions
+**3147. Taking Maximum Energy From the Mystic Dungeon

@@ -3,3 +3,5 @@
 454. 4Sum II
 2588. Count the Number of Beautiful Subarrays
 1733. Minimum Number of People to Teach
+2785. Sort Vowels in a String
+**966. Vowel Spellchecker
