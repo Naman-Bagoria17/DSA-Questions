@@ -4,3 +4,6 @@
 **********2402. Meeting Rooms III
 *****2163. Minimum Difference in Sums After Removal of Elements
 ***407. Trapping Rain Water II
+***3408. Design Task Manager
+****3484. Design Spreadsheet
+****3508. Implement Router
