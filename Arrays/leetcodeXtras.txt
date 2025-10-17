@@ -15,3 +15,8 @@
 789. Escape The Ghosts
 918. Maximum Sum Circular Subarray
 **3598. Longest Common Prefix Between Adjacent Strings After Removals
+****3349. Adjacent Increasing Subarrays Detection I
+****3350. Adjacent Increasing Subarrays Detection II
+812. Largest Triangle Area
+2221. Find Triangular Sum of an Array'
+********3495. Minimum Operations to Make Array Elements Zero

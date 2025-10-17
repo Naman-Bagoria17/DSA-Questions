@@ -1,2 +1,6 @@
 ****2353. Design a Food Rating System
 ***3508. Implement Router
+**3484. Design Spreadsheet
+****1912. Design Movie Rental System
+*****166. Fraction to Recurring Decimal
+*****2598. Smallest Missing Non-negative Integer After Operations

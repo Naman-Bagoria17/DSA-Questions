@@ -11,3 +11,9 @@
 2311. Longest Binary Subsequence Less Than or Equal to K
 789. Escape The Ghosts
 3025. Find the Number of Ways to Place People I
+********166. Fraction to Recurring Decimal
+**812. Largest Triangle Area
+***976. Largest Perimeter Triangle
+********2598. Smallest Missing Non-negative Integer After Operations
+********2749. Minimum Operations to Make the Integer Zero
+********3495. Minimum Operations to Make Array Elements Zero

@@ -41,3 +41,4 @@
 **3599. Partition Array to Minimize XOR
 ****3494. Find the Minimum Amount of Time to Brew Potions
 ****3186. Maximum Total Damage With Spell Casting
+****1039. Minimum Score Triangulation of Polygon
