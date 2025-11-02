@@ -34,3 +34,8 @@
 3628. Maximum Number of Subsequences After One Inserting
 1733. Minimum Number of People to Teach
 2785. Sort Vowels in a String
+****3397. Maximum Number of Distinct Elements After Operations
+******1353. Maximum Number of Events That Can Be Attended
+*****1488. Avoid Flood in The City
+*******526. Minimum Number of Increments on Subarrays to Form a Target Array
+******3229. Minimum Operations to Make Array Equal to Target

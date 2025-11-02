@@ -24,3 +24,4 @@ VVVI*********1203. Sort Items by Groups Respecting Dependencies
 *****2203. Minimum Weighted Subgraph With the Required Paths
 2290. Minimum Obstacle Removal to Reach Corner
 1293. Shortest Path in a Grid with Obstacles Elimination
+2368. Reachable Nodes With Restrictions

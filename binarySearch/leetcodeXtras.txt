@@ -8,3 +8,10 @@
 1498. Number of Subsequences That Satisfy the Given Sum Condition
 2009. Minimum Number of Operations to Make Array Continuous
 1044. Longest Duplicate Substring(also has string matching)
+*****2008. Maximum Earnings From Taxi
+*****1235. Maximum Profit in Job Scheduling
+*******1751. Maximum Number of Events That Can Be Attended II
+*****1488. Avoid Flood in The City
+2300. Successful Pairs of Spells and Potions
+****3346. Maximum Frequency of an Element After Performing Operations I
+***********3347. Maximum Frequency of an Element After Performing Operations II

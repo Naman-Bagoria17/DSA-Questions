@@ -37,3 +37,6 @@ code360-Walls And Gates
 ***3608. Minimum Time for K Connected Components
 ***3629. Minimum Jumps to Reach End via Prime Teleportation
 **407. Trapping Rain Water II
+*******1625. Lexicographically Smallest String After Applying Operations
+2368. Reachable Nodes With Restrictions
+********773. Sliding Puzzle (very nice)

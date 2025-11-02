@@ -4,3 +4,5 @@
 2311. Longest Binary Subsequence Less Than or Equal to K
 1829. Maximum XOR for Each Query
 *****2749. Minimum Operations to Make the Integer Zero
+***2419. Longest Subarray With Maximum Bitwise AND
+***********2411. Smallest Subarrays With Maximum Bitwise OR

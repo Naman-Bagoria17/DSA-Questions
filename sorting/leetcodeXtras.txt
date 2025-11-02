@@ -3,4 +3,12 @@
 16. 3Sum Closest
 2410. Maximum Matching of Players With Trainers
 2785. Sort Vowels in a String
-**3027. Find the Number of Ways to Place People II
+*****3027. Find the Number of Ways to Place People II
+****3397. Maximum Number of Distinct Elements After Operations
+******1353. Maximum Number of Events That Can Be Attended
+*****2008. Maximum Earnings From Taxi
+*****1235. Maximum Profit in Job Scheduling
+*******1751. Maximum Number of Events That Can Be Attended II
+2300. Successful Pairs of Spells and Potions
+****3346. Maximum Frequency of an Element After Performing Operations I
+***********3347. Maximum Frequency of an Element After Performing Operations II

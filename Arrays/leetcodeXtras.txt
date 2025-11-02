@@ -20,3 +20,9 @@
 812. Largest Triangle Area
 2221. Find Triangular Sum of an Array'
 ********3495. Minimum Operations to Make Array Elements Zero
+******3397. Maximum Number of Distinct Elements After Operations
+******1353. Maximum Number of Events That Can Be Attended
+***2419. Longest Subarray With Maximum Bitwise AND
+*******526. Minimum Number of Increments on Subarrays to Form a Target Array
+******3229. Minimum Operations to Make Array Equal to Target
+***2257. Count Unguarded Cells in the Grid

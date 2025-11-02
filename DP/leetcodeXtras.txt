@@ -40,5 +40,10 @@
 2915. Length of the Longest Subsequence That Sums to Target
 **3599. Partition Array to Minimize XOR
 ****3494. Find the Minimum Amount of Time to Brew Potions
-****3186. Maximum Total Damage With Spell Casting
+********3186. Maximum Total Damage With Spell Casting
 ****1039. Minimum Score Triangulation of Polygon
+*****650. 2 Keys Keyboard
+*****2008. Maximum Earnings From Taxi
+*****1235. Maximum Profit in Job Scheduling
+*******1751. Maximum Number of Events That Can Be Attended 
+*****3202. Find the Maximum Length of Valid Subsequence II

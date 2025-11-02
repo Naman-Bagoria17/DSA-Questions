@@ -17,3 +17,6 @@
 ********2598. Smallest Missing Non-negative Integer After Operations
 ********2749. Minimum Operations to Make the Integer Zero
 ********3495. Minimum Operations to Make Array Elements Zero
+****991. Broken Calculator
+*****650. 2 Keys Keyboard
+******2048. Next Greater Numerically Balanced Number

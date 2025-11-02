@@ -14,3 +14,4 @@
 2009. Minimum Number of Operations to Make Array Continuous
 ****3494. Find the Minimum Amount of Time to Brew Potions
 **3147. Taking Maximum Energy From the Mystic Dungeon
+**3354. Make Array Elements Equal to Zero
