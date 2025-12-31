@@ -20,3 +20,5 @@
 ****991. Broken Calculator
 *****650. 2 Keys Keyboard
 ******2048. Next Greater Numerically Balanced Number
+**************2654. Minimum Number of Operations to Make All Array Elements Equal to 1
+***1018. Binary Prefix Divisible By 5
